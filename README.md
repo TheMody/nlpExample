@@ -8,5 +8,5 @@ Needed Packages:
 tensorflow-datasets
 numpy
 pytorch
-scikit learn
+scikit-learn
 transformers
